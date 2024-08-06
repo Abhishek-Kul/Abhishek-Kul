@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/127298714375cc05adb5cba46747c271a69d0a7208954d5db93650ba2f5b34ce/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f37393733313536383039373539392e356235306263613437373733352e6a7067)
 <h1 align="center">Hi 👋, I'm Abhishek Kulkarni</h1>
 <h3 align="center">A passionate and keen tech enthusiast, always eager to learn new things.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-kul&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-kul" /> </p>
 
