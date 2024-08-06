@@ -1,11 +1,11 @@
-[![MasterHead](https://camo.githubusercontent.com/127298714375cc05adb5cba46747c271a69d0a7208954d5db93650ba2f5b34ce/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f37393733313536383039373539392e356235306263613437373733352e6a7067)]
+![MasterHead](https://camo.githubusercontent.com/127298714375cc05adb5cba46747c271a69d0a7208954d5db93650ba2f5b34ce/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f37393733313536383039373539392e356235306263613437373733352e6a7067)
 <h1 align="center">Hi 👋, I'm Abhishek Kulkarni</h1>
 <h3 align="center">A passionate and keen tech enthusiast, always eager to learn new things.</h3>
-(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4948736-UI-Developer")
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4948736-UI-Developer">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-kul&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-kul" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="[https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2YxosT-0is9LrcjCaxfFZT&ust=1723018741151000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjsqqqR99-HAxVoSGwGHYI3COIQjRx6BAgAEBQ)" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Data Analytics**
 
